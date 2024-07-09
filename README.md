@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cloud7Ez
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Power Bi,Excel,Sql,Python
 <!---
 Cloud7Ez/Cloud7Ez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
