@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently focusing on portfolio projects.<br>👯I'm seeking opportunities to collaborate on various business analyst roles.<br>🤝 I'm seeking assistance with finding a job.<br>🌱 I'm currently refining my skills in Excel, Power BI, SQL, and Python.<br>💬 Feel free to ask me anything related to data analysis, and I'll do my best to provide an answer. <br>I'm also capable of analyzing any business-related dataset.<br>
+🔭 I'm currently focusing on portfolio projects.<br>👯I'm seeking opportunities to collaborate on various business analyst roles.<br>🤝 I'm seeking assistance with finding a job.<br>🌱 I'm currently refining my skills in Excel, Power BI, SQL, and Python.<br>💬 Feel free to ask me anything related to data analysis, and I'll do my best to provide an answer.I'm also capable of analyzing any business-related dataset.<br>
 
 
 ## 🌐 Socials:
