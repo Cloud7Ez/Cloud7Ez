@@ -1,50 +1,27 @@
-<h2 align="left">Hi 👋! My name is Muhammad Zilany and I'm a Data analyst/Bi analyst from Bangladesh.<br><br>💫 About Me:<br>🔭 I'm currently focusing on portfolio projects.<br>👯I'm seeking opportunities to collaborate on various business analyst roles.<br>🤝 I'm seeking assistance with finding a job.<br>🌱 I'm currently refining my skills in Excel, Power BI, SQL, and Python.<br>💬 Feel free to ask me anything related to data analysis, and I'll do my best to provide an answer.I'm also capable of analyzing any business-related dataset.</h2>
+# 💫 About Me:
+Hi 👋! My name is Muhammad Zilany and I'm a Data analyst/Bi analyst from Bangladesh.<br><br>💫 About Me:<br>🔭 I'm currently focusing on portfolio projects.<br>👯I'm seeking opportunities to collaborate on various business analyst roles.<br>🤝 I'm seeking assistance with finding a job.<br>🌱 I'm currently refining my skills in Excel, Power BI, SQL, and Python.<br>💬 Feel free to ask me anything related to data analysis, and I'll do my best to provide an answer.I'm also capable of analyzing any business-related dataset.
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cloud7Ez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Cloud7Ez&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cloud7Ez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/475919572944289803) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//zilany.zil/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//muhammad-zilany-860973301/) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cloud7Ez&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cloud7Ez&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud7Ez&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1sZnZmYTd3dGFva2tzamV4MjVvZ3RlZHZpdjZxZ2IwbzVxZmJ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aAbax5anloMNk6TSP9/giphy.webp"  />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cloud7Ez&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cloud7Ez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Cloud7Ez&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <a href="https://www.facebook.com/zilany.zil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-zilany-860973301/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cloud7Ez/Cloud7Ez/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cloud7Ez.Cloud7Ez&left_color=tomato&right_color=blueviolet"  />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
