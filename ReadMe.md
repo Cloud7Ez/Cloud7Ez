@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/75ez.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.gifer.com/75ez.gif)]
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/media/39359a17c831677ed85fd3df1cc8c38e.gif" style="float:right; margin-left:20px;">
