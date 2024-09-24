@@ -1,8 +1,13 @@
-![Yellow   Black Geometric Personal Branding LinkedIn Banner](https://github.com/user-attachments/assets/c5e6759f-5146-48ae-b842-780fafaa0dc3)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Zilany!;" />
+</h1>
+<h3 align="center">A passionate Data analyst/Bi analyst from Bangladesh </h3>
 
-# 💫 About Me:
+<br/>
+
+## 💫 About Me:
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/media/39359a17c831677ed85fd3df1cc8c38e.gif" style="float:right; margin-left:20px;">
-Hi 👋! My name is Muhammad Zilany and I'm a Data analyst/Bi analyst from Bangladesh.<br>🔭 I'm currently focusing on portfolio projects.<br>👯I'm seeking opportunities to collaborate on various business analyst roles.<br>🤝 I'm seeking assistance with finding a job.<br>🌱 I'm currently refining my skills in Excel, Power BI, SQL, and Python.<br>💬 Feel free to ask me anything related to data analysis, and I'll do my best to provide an answer.I'm also capable of analyzing any business-related dataset.
+🔭 I'm currently focusing on portfolio projects.<br>👯I'm seeking opportunities to collaborate on various business analyst roles.<br>🤝 I'm seeking assistance with finding a job.<br>🌱 I'm currently refining my skills in Excel, Power BI, SQL, and Python.<br>💬 Feel free to ask me anything related to data analysis, and I'll do my best to provide an answer.I'm also capable of analyzing any business-related dataset.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/475919572944289803) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//zilany.zil/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//muhammad-zilany-860973301/) 
@@ -22,6 +27,14 @@ Hi 👋! My name is Muhammad Zilany and I'm a Data analyst/Bi analyst from Bangl
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cloud7Ez&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cloud7Ez&icon=6&color=0)](https://visitcount.itsvg.in)
